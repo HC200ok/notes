@@ -1,0 +1,1 @@
+- [Why people got upset with Vue 3](https://vueschool.io/articles/news/why-people-are-mad-with-vue-3/)

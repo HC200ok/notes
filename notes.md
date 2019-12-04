@@ -1,2 +1,3 @@
 - [Why people got upset with Vue 3](https://vueschool.io/articles/news/why-people-are-mad-with-vue-3/)
 - [NUXT 注册全局组件，插件，方法](https://www.samyoc.com/single/138)
+- [VUE SSR原理](https://www.jianshu.com/p/c6a07755b08d)

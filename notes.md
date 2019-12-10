@@ -2,3 +2,4 @@
 - [NUXT 注册全局组件，插件，方法](https://www.samyoc.com/single/138)
 - [VUE SSR原理](https://www.jianshu.com/p/c6a07755b08d)
 - [Vue中容易被忽视的知识点](https://juejin.im/post/5dde8d3a5188256ed7367372)
+- [迪亚波罗.js](https://qiita.com/hinora/items/26400d282c89afa323e3)

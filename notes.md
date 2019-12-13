@@ -4,3 +4,5 @@
 - [Vue中容易被忽视的知识点](https://juejin.im/post/5dde8d3a5188256ed7367372)
 - [迪亚波罗.js](https://qiita.com/hinora/items/26400d282c89afa323e3)
 - [web动效](https://juejin.im/post/5decdb00518825124e13d87b)
+- [web简历](https://www.resume.id/)
+

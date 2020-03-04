@@ -12,3 +12,7 @@
 大綱 https://zhuanlan.zhihu.com/p/25713782
 
 樂理基礎 https://zhuanlan.zhihu.com/p/74547235
+
+波 音波圖
+
+傅里叶变换 https://zhuanlan.zhihu.com/p/19759362

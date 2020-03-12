@@ -16,3 +16,5 @@
 波 音波圖
 
 傅里叶变换 https://zhuanlan.zhihu.com/p/19759362
+
+音频中的机器学习：数字信号处理、滤波器组、梅尔-频率倒谱系数 https://blog.csdn.net/calvinpaean/article/details/103204271
